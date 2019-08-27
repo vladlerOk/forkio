@@ -1,0 +1,35 @@
+{
+  "name": "forkio",
+  "version": "1.0.0",
+  "description": "second step project",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-jquery": "^1.1.2",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.12.0",
+    "sass": "^1.22.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/rublenkoosn/step-forkio.git"
+  },
+  "author": "Vlad Rublenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/rublenkoosn/step-forkio/issues"
+  },
+  "homepage": "https://gitlab.com/rublenkoosn/step-forkio#readme"
+}
